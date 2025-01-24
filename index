@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore the WGU Student Portal and discover how it revolutionizes online education with seamless access to resources, tools, and student support.">
+    <meta name="keywords" content="WGU Student Portal, online education, educational resources, student support, WGU resources">
+    <meta name="author" content="Your Name">
+    <title>WGU Student Portal - Transforming Online Education</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #00539b;
+            color: white;
+            padding: 20px 10%;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            margin-top: 20px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #00539b;
+        }
+        a {
+            color: #00539b;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #00539b;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WGU Student Portal</h1>
+        <nav>
+            <a href="#overview">Overview</a>
+            <a href="#features">Key Features</a>
+            <a href="#benefits">Benefits</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="overview">
+            <h2>Overview of the WGU Student Portal</h2>
+            <p>
+                The <a href="https://mywgustudentportal.com/" target="_blank">WGU Student Portal</a> is a comprehensive online platform designed to provide students with seamless access to academic resources, communication tools, and progress tracking. Whether you’re a new enrollee or a graduating student, the portal ensures that all essential resources are just a click away. 
+            </p>
+            <p>
+                By leveraging advanced technology, the portal not only simplifies the learning experience but also empowers students to manage their studies effectively. Its user-friendly interface and integrated features make it a cornerstone of WGU’s commitment to student success.
+            </p>
+        </section>
+
+        <section id="features">
+            <h2>Key Features of the WGU Student Portal</h2>
+            <ul>
+                <li><strong>Centralized Dashboard:</strong> Access all your courses, assignments, and grades in one place.</li>
+                <li><strong>Mentor Support:</strong> Communicate easily with program mentors for guidance.</li>
+                <li><strong>Progress Tracking:</strong> Visualize your academic journey with intuitive progress charts.</li>
+                <li><strong>Mobile Access:</strong> Log in from any device, ensuring flexibility and convenience.</li>
+                <li><strong>Integrated Learning Tools:</strong> Utilize e-libraries, virtual labs, and additional study resources.</li>
+            </ul>
+            <p>
+                Discover more about the features by exploring our detailed insights on the <a href="https://mywgustudentportal.com/wgu-graduation-rate/" target="_blank">WGU Graduation Rate</a> and its impact on student success.
+            </p>
+        </section>
+
+        <section id="benefits">
+            <h2>Benefits of Using the WGU Student Portal</h2>
+            <p>
+                The WGU Student Portal is more than just a tool; it’s a gateway to achieving your educational goals. Here’s why students love it:
+            </p>
+            <ol>
+                <li><strong>Efficiency:</strong> Streamlined access to resources saves valuable time.</li>
+                <li><strong>Flexibility:</strong> Study at your own pace and access materials anytime, anywhere.</li>
+                <li><strong>Personalized Learning:</strong> Tailor your study plan to align with your academic goals.</li>
+            </ol>
+            <p>
+                Learn more about the flexibility offered by WGU through resources like the <a href="https://mywgustudentportal.com/wgu-commencement/" target="_blank">WGU Commencement Planner</a>.
+            </p>
+        </section>
+
+        <section id="contact">
+            <h2>Get in Touch</h2>
+            <p>
+                Have questions about the WGU Student Portal or need assistance? Visit our homepage at <a href="https://mywgustudentportal.com/" target="_blank">mywgustudentportal.com</a> or contact WGU support for personalized help.
+            </p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 WGU Student Portal Resources. All rights reserved.</p>
+    </footer>
+</body>
+</html>
